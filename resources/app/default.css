@@ -1,0 +1,13 @@
+﻿body {
+     margin:0;
+     padding:0;
+     background:#a6a6a6;
+     font:14px/1.5 "Helvetica Neue", Helvetica, Arial, san-serif;
+ }
+ article, footer, header { display: block; }
+ article {
+     width:880px;
+     background:#fff;
+     margin:auto;
+     padding:40px;
+ }

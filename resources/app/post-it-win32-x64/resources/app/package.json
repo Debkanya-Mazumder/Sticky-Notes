@@ -1,0 +1,14 @@
+{
+  "name": "post-it",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --debug"
+  },
+  "version": "0.0.1",
+  "description": "post-it-demo",
+  "author": "Debkanya Mazumder <dmazum2@uic.edu>", 
+  "devDependencies": {
+    "electron-packager": "^8.6.0"
+  } 
+}
